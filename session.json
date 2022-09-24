@@ -75,7 +75,7 @@
     "signalIdentities": [
       {
         "identifier": {
-          "name": "917439623713:20@s.whatsapp.net",
+          "name": "KING SAGAR:20@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
@@ -400,8 +400,8 @@
               "baseKey": "BW12M4YkJMWi3oMELK4irCYC517Enrug4vZ25k2kc8hB",
               "baseKeyType": 2,
               "closed": -1,
-              "used": 1663954928526,
-              "created": 1663954928526,
+              "used": 917059102517,
+              "created": 917059102517,
               "remoteIdentityKey": "BZKK+cCziJ0lU210S66O7aX6TrA4cimyVs56DgQMp/tb"
             },
             "_chains": {
@@ -431,7 +431,7 @@
       "AAAAAKQ3": {
         "keyData": "qhpAAu9HGKxoZIQ+DLAnZV7IUMBuKvhye7lfWK5cczU=",
         "fingerprint": {
-          "rawId": 847578457,
+          "rawId": 7059102517,
           "currentIndex": 1,
           "deviceIndexes": [
             0,
@@ -443,7 +443,7 @@
       "AAAAAKQ4": {
         "keyData": "2vqAgbvYLEAxftr4TpiNinJAMsU4o8nWejiWcYvwoSo=",
         "fingerprint": {
-          "rawId": 847578457,
+          "rawId": 7059102517,
           "currentIndex": 2,
           "deviceIndexes": [
             0,
